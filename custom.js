@@ -6,7 +6,7 @@ function adjustLayoutGroupsHeight() {
   ).offsetHeight;
   const layoutGroups = document.getElementById("layout-groups");
 
-  const availableHeight = widgetsHeight + 10;
+  const availableHeight = widgetsHeight + 0;
   layoutGroups.style.marginTop = availableHeight + "px";
 }
 
