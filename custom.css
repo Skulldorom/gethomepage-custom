@@ -9,7 +9,7 @@
   margin: 0;
   background-color: #1f1f1f;
   border-radius: 0;
-  z-index: 10;
+  z-index: 100;
   max-height: 20vh;
   overflow: auto;
 
